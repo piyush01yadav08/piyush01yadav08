@@ -11,7 +11,7 @@ Hello, this is my profile.
 👾 TERMINAL PROFILE
 
 > USER: Piyush Yadav
-> ROLE: Student | Web Developer
+> ROLE: Student | Web Developer | Full Stack Developer
 > STATUS: Online 🟢
 > LOCATION: India
 > CURRENT MISSION: Mastering AI & ML
